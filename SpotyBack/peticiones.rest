@@ -1,0 +1,9 @@
+@Host = http://localhost:3000
+@urlAlbum = /album
+
+
+### ALBUM
+
+// recuperar Album por ID
+GET {{Host}}{{urlAlbum}}/5U4W9E5WsYb2jUQWePT8Xm
+Authorization: "BQAGzr6NCiUZF8SaVMOqbT3IniGUwzI4iuSDDUyeN75Uu6cbCXLg5lh6zAugyyYWZ6rBS_x7I_eb7w6vGMDAbX1-oiSoigMtN9O52HSfRzWo6IOfyIKhDlfdYg8TnQb1JalKpTldIMEGTIXK58lV0PfnK7C4sHTIbfnJRkfwoj7gWMWgVIKDVqWXLTAhXvA2185bVBi98VtpkKbtoH8CgTwxEDMPOFN8OPbiWw9K-oTBBWSIswjqck6jQ3eTemX_i3-AWFW0y0ReoQYbLi-VmpvvXV5OVkNy3xttMZc2KA"
